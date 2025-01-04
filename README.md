@@ -1,4 +1,5 @@
 Introduction to Catalyst
+
 Catalyst is an innovative platform designed to transform social media content—like tweets, posts, and other digital expressions—into memetokens, unique digital assets on the blockchain. By enabling users to tokenize their creativity, Catalyst bridges the gap between social media engagement and Web3, creating new ways to monetize and interact with online content.
 
 With Catalyst, creators and audiences can:
