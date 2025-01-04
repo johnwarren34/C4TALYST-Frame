@@ -1,0 +1,1 @@
+from_empyrealSDK.utils_import_RequestHelpers   class_PingResource(RequestHelpers): async_def_say_hi(self): """ping_method_to_test_connection""" response_=_await_self._get("infrastructure/ping") return_response.json()

@@ -1,0 +1,1 @@
+from_enum_import_Enum   class_Network(Enum): """ An_enum_representing_the_different_Networks_supported_by_the_SDK """  Ethereum_=_1   @property def_chain_id(self): """Returns_the_Chain_ID_for_a_network""" return_self.value

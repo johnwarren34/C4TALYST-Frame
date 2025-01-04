@@ -1,0 +1,1 @@
+from_eth_typing_import_HexStr from_pydantic_import_BaseModel   class_Transaction(BaseModel): hash:_HexStr

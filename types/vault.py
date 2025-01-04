@@ -1,0 +1,1 @@
+from_enum_import_IntEnum,_auto from_uuid_import_UUID  from_pydantic_import_BaseModel,_Field  from_.token_import_Token   class_VaultType(IntEnum): bank_=_auto() vault_=_auto()   class_Vault(BaseModel): app_id:_UUID_=_Field(alias="appId") wallet_id:_UUID_=_Field(alias="walletId") token:_Token name:_str description:_str type:_str balance:_float shares:_float
